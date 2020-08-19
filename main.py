@@ -39,4 +39,4 @@ def reply_tweets():
 
 while True:
     reply_tweets()
-    time.sleep(120)
+    time.sleep(3600)
